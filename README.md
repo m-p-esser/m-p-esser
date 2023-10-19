@@ -3,7 +3,7 @@
 - 📊 I'm a Data Analyst and aspiring Data Engineer
 - 🏙 I'm proud to be born in the beautiful city of Aachen, Germany 
 - 🔎 I'm looking to collaborate on Data Science/Engineering Projects in Cologne (as i'm living here currently)
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/marc-philipp-esser-692458157/) or [Xing](https://www.xing.com/profile/MarcPhilipp_Esser/cv)
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/marc-philipp-esser-692458157/)
 
 ## Side Projects
 *Follow the link to get to the Github Repo and a detailed Project description*
